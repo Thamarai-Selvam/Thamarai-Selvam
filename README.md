@@ -1,12 +1,20 @@
 <h1 align="center">Hey 👋🏽, I'm Thamarai Selvam D.</h1>
-<h4 align="center"> 🚀 Software Engineer 👨‍💻 Full Stack from Coimbatore, India.</h4>
+<h4 align="center"> ⚙️ Software Engineer 👨‍💻 Full Stack based in Coimbatore, India.</h4>
 
 <br />
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Thamarai-Selvam&style=flat-square" alt="Thamarai-Selvam" /> </p>
+<br />
 
-![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=Thamarai-Selvam&show_icons=true&theme=tokyonight)
+### 🛠 About Myself
+   - ✨ Software Engineer, Full Stack based in Coimbatore, India.<br />
+   - 👨🏽‍💻 Former: Software Engineer @ KLA Corp+, Ambassador @ National Engineering Olympiad.<br />
+   - 🤔 Passionate about design, UI/UX and Operating systems
+
+<br />
+
+![ThamaraiSelvam's github stats](https://github-readme-stats.vercel.app/api?username=Thamarai-Selvam&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamarai-Selvam&layout=compact&theme=tokyonight)
 
