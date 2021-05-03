@@ -7,10 +7,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Thamarai-Selvam&style=flat-square" alt="Thamarai-Selvam" /> </p>
 <br />
 
-### 🛠 About Myself
+### 😼 About Myself
    - ✨ Software Engineer, Full Stack based in Coimbatore, India.<br />
-   - 👨🏽‍💻 Former: Software Engineer @ KLA Corp+, Ambassador @ National Engineering Olympiad.<br />
-   - 🤔 Passionate about design, UI/UX and Operating systems
+   - 👨🏽‍💻 Former: Software Engineer @ KLA Corp, Ambassador @ National Engineering Olympiad.<br />
+   - 🤔 Passionate about Design, UI/UX and Operating systems
 
 <br />
 
