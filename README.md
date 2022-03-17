@@ -8,8 +8,8 @@
 <br />
 
 ### 😼 About Myself
-   - ✨ Software Engineer, Full Stack based in Coimbatore, India.<br />
-   - 👨🏽‍💻 Former: Software Engineer @ KLA Corp, Ambassador @ National Engineering Olympiad.<br />
+   - ✨ Software Engineer @ KLA Corporation.<br />
+   - 👨🏽‍💻 Former: Ambassador @ National Engineering Olympiad.<br />
    - 🤔 Passionate about Design, UI/UX and Operating systems
 
 <br />
